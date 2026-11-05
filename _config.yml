@@ -1,0 +1,5 @@
+title: Personal AI Team
+description: Personal task coordination and recoverable Google Drive archives.
+markdown: kramdown
+exclude:
+  - PUBLICATION_REVIEW.md
